@@ -152,7 +152,7 @@
                <div class="product-showcase">
                   <div class="circle-bg"></div>
                   <img 
-                    src="/Users/nakorn/Documents/GitHub/bio_twist/public/IMG_8287.jpg" 
+                    src="/IMG_8287.jpg" 
                     alt="Bio Twist Product Mockup" 
                     class="mockup-img elevation-6 rounded-xl"
                   />
@@ -178,35 +178,6 @@
           </v-row>
         </v-container>
       </section>
-
-      <!-- <section id="video-demo" class="video-section py-16 bg-white">
-        <v-container>
-          <v-row justify="center" class="text-center mb-8">
-            <v-col cols="12" md="8">
-              <div class="d-flex align-center justify-center mb-4">
-                <span class="text-h3 mr-2">🎬</span>
-                <h2 class="section-title mb-0">See BioTwist in Action</h2>
-              </div>
-            </v-col>
-          </v-row>
-
-          <v-row justify="center">
-            <v-col cols="12" md="10" lg="8">
-              <div class="video-frame-wrapper elevation-12 rounded-xl">
-                <video 
-                  class="video-iframe"
-                  src="/Sec 404_group A.MOV" 
-                  frameborder="0" 
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                  allowfullscreen
-                  controls
-                ></video>
-              </div>
-              
-            </v-col>
-          </v-row>
-        </v-container>
-      </section> -->
 
       <section class="features-section py-12 bg-primary-green">
         <v-container>
